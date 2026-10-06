@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Vector DBs and JSON
+chroma_oracle_db/
+oracle_rag_db/
+*.json
