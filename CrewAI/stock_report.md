@@ -1,0 +1,9 @@
+# Monthly Stock Report: INFY.NS and TCS.NS
+
+When we think of stocks, it's like a roller coaster where prices go up and down, sometimes leaving investors feeling both exhilarated and anxious. As we examine the performance of INFY.NS and TCS.NS over the past month, it's clear that both of these Indian IT giants have experienced a downward dip on this ride.
+
+Firstly, let's take a look at Infosys Limited (INFY.NS). The latest closing price for INFY.NS is ₹1,013.85, and over the past month, the stock has seen a price change of -6.77%. Imagine you had a beautiful balloon filled at the price of ₹1,085.80 a month ago, but it slightly deflated over the weeks, bringing its current worth to the latest closing price. This price reduction, though not drastic, can be seen as an opportunity for investors to consider whether it's a good time to buy in while the price is lower.
+
+On the other hand, Tata Consultancy Services (TCS.NS) exhibits a similar trend. TCS.NS recently closed at ₹2,100.00, experiencing a 1-month change of -7.49%. If we visualize TCS's stock price as an elegant tower, it has slightly dipped after standing tall at approximately ₹2,270.60 last month. Whatever led to this descent—be it market conditions, external influences, or business decisions—investors should assess the reasons behind the fall and decide if this is the moment for new opportunities.
+
+In conclusion, both INFY.NS and TCS.NS have recently experienced declines in their share prices over the past month. This means that while the roller coaster of stock prices has momentarily dipped, it offers a potential chance for prudent investors to evaluate the market situation. Understanding these fluctuations helps investors make informed decisions, keeping in mind the long-term potential of these well-regarded companies in the IT sector.
