@@ -27,7 +27,8 @@ writer = Agent(
 
 # assigning task to stock analyst agent to get the share price and 1 month price change of a stock symbol
 data_task = Task(
-    description="Use the tool to collect the latest share price and 1 month price change for each of these stock symbols: {symbols}. Call the tool once per symbol.",
+    description="Use the tool to collect the latest share price and 1 month price change for each of these stock symbols: {symbols}. \
+        Call the tool once per symbol.",
     expected_output = "One line per symbol with the latest closing price and 1 month price change",
     agent = analyst,
 )
