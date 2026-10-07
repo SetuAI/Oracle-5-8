@@ -3,6 +3,8 @@ api/server.py — FastAPI REST Gateway
 
 Exposes the LangGraph pipeline as a REST API.
 
+uvicorn api.server:app --reload --port 8000
+
 ENDPOINTS:
     POST /analyze          → full analysis, synchronous (~30-60s)
     GET  /analyze/stream   → streaming analysis via SSE
