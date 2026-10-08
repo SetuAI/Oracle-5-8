@@ -1,0 +1,6 @@
+mcp[cli]
+langchain 
+langchain-openai
+langchain-community
+httpx
+yfinance
