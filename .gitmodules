@@ -1,0 +1,3 @@
+[submodule "amfi-mcp-server"]
+	path = amfi-mcp-server
+	url = https://github.com/SetuAI/amfi-mcp-server.git
