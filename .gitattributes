@@ -4,3 +4,5 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 MCP_foundational/*.pdf filter=lfs diff=lfs merge=lfs -text
+assignment_*/**/*.pdf !filter !diff !merge binary
+assignment_*/*.pdf !filter !diff !merge binary
